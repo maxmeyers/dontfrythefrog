@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>fire-Frog-endtransition1-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 2}, {337, 386}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{337, 386}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 388}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{348, 471}, {337, 386}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-endtransition1-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 231}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 231}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 231}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{520, 1800}, {201, 231}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-endtransition1-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 136}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 136}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 136}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{685, 812}, {136, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-endtransition2-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 354}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 354}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 354}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{367, 0}, {337, 354}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-endtransition2-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 211}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 211}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 211}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1071, 1651}, {201, 211}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-endtransition2-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 124}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 124}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 124}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{628, 1671}, {118, 124}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-endtransition3-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {338, 344}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{338, 344}</string>
+			<key>spriteSourceSize</key>
+			<string>{338, 344}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{685, 468}, {338, 344}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-endtransition3-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 205}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 205}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 205}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1188, 1404}, {201, 205}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-endtransition3-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {119, 121}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{119, 121}</string>
+			<key>spriteSourceSize</key>
+			<string>{119, 121}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{722, 349}, {121, 119}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-endtransition4-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {338, 327}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{338, 327}</string>
+			<key>spriteSourceSize</key>
+			<string>{338, 327}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1040, 0}, {327, 338}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-endtransition4-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 194}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 194}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1272, 1609}, {194, 201}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-endtransition4-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {119, 115}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{119, 115}</string>
+			<key>spriteSourceSize</key>
+			<string>{119, 115}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{367, 354}, {119, 115}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition1-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 325}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 325}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 325}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{746, 1671}, {325, 337}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition1-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 193}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 193}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1658, 0}, {201, 193}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition1-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{987, 1533}, {114, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition10-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 447}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 447}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 447}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1379}, {337, 447}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition10-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 266}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 266}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 266}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{987, 1267}, {201, 266}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition10-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 157}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 157}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 157}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1000, 349}, {157, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition2-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 325}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 325}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 325}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{337, 1334}, {325, 337}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition2-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 193}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 193}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1389, 0}, {201, 193}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition2-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{486, 354}, {118, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition3-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 325}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 325}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 325}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{696, 930}, {325, 337}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition3-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 193}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 193}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1272, 1810}, {193, 201}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition3-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{944, 812}, {114, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition4-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 325}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 325}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 325}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{662, 1334}, {325, 337}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition4-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 193}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 193}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1465, 1810}, {193, 201}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition4-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 114}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 114}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 114}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{604, 354}, {118, 114}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition5-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {349, 336}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{349, 336}</string>
+			<key>spriteSourceSize</key>
+			<string>{349, 336}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{704, 0}, {336, 349}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition5-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {208, 200}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{208, 200}</string>
+			<key>spriteSourceSize</key>
+			<string>{208, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1188, 1196}, {200, 208}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition5-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {123, 118}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{123, 118}</string>
+			<key>spriteSourceSize</key>
+			<string>{123, 118}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{821, 812}, {123, 118}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition6-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {359, 402}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{359, 402}</string>
+			<key>spriteSourceSize</key>
+			<string>{359, 402}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{337, 932}, {359, 402}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition6-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {214, 239}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{214, 239}</string>
+			<key>spriteSourceSize</key>
+			<string>{214, 239}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{281, 1826}, {239, 214}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition6-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {126, 141}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{126, 141}</string>
+			<key>spriteSourceSize</key>
+			<string>{126, 141}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{337, 1671}, {126, 141}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition7-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {367, 471}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{367, 471}</string>
+			<key>spriteSourceSize</key>
+			<string>{367, 471}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {367, 471}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition7-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {219, 281}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{219, 281}</string>
+			<key>spriteSourceSize</key>
+			<string>{219, 281}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1826}, {281, 219}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition7-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {129, 165}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{129, 165}</string>
+			<key>spriteSourceSize</key>
+			<string>{129, 165}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{463, 1671}, {165, 129}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition8-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {348, 461}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{348, 461}</string>
+			<key>spriteSourceSize</key>
+			<string>{348, 461}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 471}, {348, 461}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition8-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {208, 274}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{208, 274}</string>
+			<key>spriteSourceSize</key>
+			<string>{208, 274}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1023, 467}, {208, 274}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition8-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {122, 162}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{122, 162}</string>
+			<key>spriteSourceSize</key>
+			<string>{122, 162}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1157, 338}, {162, 122}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>fire-Frog-transition9-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 447}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 447}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 447}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 932}, {337, 447}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition9-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 266}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 266}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 266}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1021, 930}, {201, 266}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>fire-Frog-transition9-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 157}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 157}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 157}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{843, 349}, {157, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>textureFileName</key>
+		<string>pvr.ccz</string>
+		<key>version</key>
+		<string>1.5.1</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>BTFrog-Fire-Transitions-hd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>default</string>
+			<key>textureFileExtension</key>
+			<string>.pvr.ccz</string>
+			<key>coordinatesFileName</key>
+			<string>default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

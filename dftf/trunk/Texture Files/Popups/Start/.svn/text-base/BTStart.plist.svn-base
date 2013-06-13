@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>Dr-Tim-start.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 4}, {444, 316}}</string>
+			<key>spriteOffset</key>
+			<string>{-18, -2}</string>
+			<key>spriteSize</key>
+			<string>{444, 316}</string>
+			<key>spriteSourceSize</key>
+			<string>{480, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 292}, {444, 316}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>simplehelp.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{14, 12}, {452, 290}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 3}</string>
+			<key>spriteSize</key>
+			<string>{452, 290}</string>
+			<key>spriteSourceSize</key>
+			<string>{480, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {452, 290}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tutorials-start1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{50, 216}, {373, 104}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -108}</string>
+			<key>spriteSize</key>
+			<string>{373, 104}</string>
+			<key>spriteSourceSize</key>
+			<string>{475, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 178}, {373, 104}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tutorials-start2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{45, 204}, {383, 116}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -102}</string>
+			<key>spriteSize</key>
+			<string>{383, 116}</string>
+			<key>spriteSourceSize</key>
+			<string>{475, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{636, 284}, {116, 383}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+		<key>tutorials-start3.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 192}, {389, 128}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -96}</string>
+			<key>spriteSize</key>
+			<string>{389, 128}</string>
+			<key>spriteSourceSize</key>
+			<string>{475, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{395, 881}, {389, 128}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tutorials-start4.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{40, 180}, {393, 140}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -90}</string>
+			<key>spriteSize</key>
+			<string>{393, 140}</string>
+			<key>spriteSourceSize</key>
+			<string>{475, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 776}, {393, 140}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tutorials-start5.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{34, 168}, {405, 152}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -84}</string>
+			<key>spriteSize</key>
+			<string>{405, 152}</string>
+			<key>spriteSourceSize</key>
+			<string>{475, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{417, 727}, {405, 152}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tutorials-start6.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{29, 156}, {415, 164}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -78}</string>
+			<key>spriteSize</key>
+			<string>{415, 164}</string>
+			<key>spriteSourceSize</key>
+			<string>{475, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 610}, {415, 164}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tutorials-start7.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 144}, {427, 176}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -72}</string>
+			<key>spriteSize</key>
+			<string>{427, 176}</string>
+			<key>spriteSourceSize</key>
+			<string>{475, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{454, 0}, {427, 176}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>tutorials-start8.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 132}, {433, 188}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, -66}</string>
+			<key>spriteSize</key>
+			<string>{433, 188}</string>
+			<key>spriteSourceSize</key>
+			<string>{475, 320}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{446, 292}, {188, 433}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>textureFileName</key>
+		<string>.pvr.ccz</string>
+		<key>version</key>
+		<string>1.5.2</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>name</key>
+		<string>BTStart</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>BTStart.pvr</string>
+			<key>textureFileExtension</key>
+			<string>.pvr.ccz</string>
+			<key>coordinatesFileName</key>
+			<string>BTStart</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

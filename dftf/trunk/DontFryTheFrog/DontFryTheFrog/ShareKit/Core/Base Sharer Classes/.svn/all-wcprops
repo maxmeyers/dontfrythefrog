@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/blacktorch/dontfrythefrog/!svn/ver/87/trunk/DontFryTheFrog/DontFryTheFrog/ShareKit/Core/Base%20Sharer%20Classes
+END
+SHKSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/blacktorch/dontfrythefrog/!svn/ver/87/trunk/DontFryTheFrog/DontFryTheFrog/ShareKit/Core/Base%20Sharer%20Classes/SHKSharer.h
+END
+SHKSharerDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/blacktorch/dontfrythefrog/!svn/ver/87/trunk/DontFryTheFrog/DontFryTheFrog/ShareKit/Core/Base%20Sharer%20Classes/SHKSharerDelegate.m
+END
+SHKOAuthSharer.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/blacktorch/dontfrythefrog/!svn/ver/87/trunk/DontFryTheFrog/DontFryTheFrog/ShareKit/Core/Base%20Sharer%20Classes/SHKOAuthSharer.h
+END
+SHKSharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/blacktorch/dontfrythefrog/!svn/ver/87/trunk/DontFryTheFrog/DontFryTheFrog/ShareKit/Core/Base%20Sharer%20Classes/SHKSharer.m
+END
+SHKOAuthSharer.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/blacktorch/dontfrythefrog/!svn/ver/87/trunk/DontFryTheFrog/DontFryTheFrog/ShareKit/Core/Base%20Sharer%20Classes/SHKOAuthSharer.m
+END
+SHKSharerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/blacktorch/dontfrythefrog/!svn/ver/87/trunk/DontFryTheFrog/DontFryTheFrog/ShareKit/Core/Base%20Sharer%20Classes/SHKSharerDelegate.h
+END

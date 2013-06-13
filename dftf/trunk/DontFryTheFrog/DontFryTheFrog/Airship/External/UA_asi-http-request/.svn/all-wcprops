@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request
+END
+UA_ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIHTTPRequest.h
+END
+UA_ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIDownloadCache.h
+END
+UA_ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIInputStream.h
+END
+UA_ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASICacheDelegate.h
+END
+UA_ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIHTTPRequestConfig.h
+END
+UA_ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASINetworkQueue.h
+END
+UA_ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIAuthenticationDialog.h
+END
+UA_ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIDataDecompressor.h
+END
+UA_ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIProgressDelegate.h
+END
+UA_ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIHTTPRequestDelegate.h
+END
+UA_ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIDataCompressor.h
+END
+UA_ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/External/UA_asi-http-request/UA_ASIFormDataRequest.h
+END

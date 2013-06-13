@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Frog-zap1-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {585, 571}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{585, 571}</string>
+			<key>spriteSourceSize</key>
+			<string>{585, 571}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {571, 585}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Frog-zap1-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {348, 340}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{348, 340}</string>
+			<key>spriteSourceSize</key>
+			<string>{348, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1705}, {348, 340}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Frog-zap1-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {205, 200}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{205, 200}</string>
+			<key>spriteSourceSize</key>
+			<string>{205, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{553, 926}, {200, 205}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Frog-zap2-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 25}, {539, 543}}</string>
+			<key>spriteOffset</key>
+			<string>{-23, -11}</string>
+			<key>spriteSize</key>
+			<string>{539, 543}</string>
+			<key>spriteSourceSize</key>
+			<string>{585, 571}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{547, 1143}, {539, 543}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Frog-zap2-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 15}, {322, 324}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -7}</string>
+			<key>spriteSize</key>
+			<string>{322, 324}</string>
+			<key>spriteSourceSize</key>
+			<string>{348, 340}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1232, 0}, {322, 324}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Frog-zap2-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 9}, {189, 190}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, -4}</string>
+			<key>spriteSize</key>
+			<string>{189, 190}</string>
+			<key>spriteSourceSize</key>
+			<string>{205, 200}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1146, 877}, {189, 190}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		<key>Frog-zap3-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {554, 551}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{554, 551}</string>
+			<key>spriteSourceSize</key>
+			<string>{554, 551}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 587}, {551, 554}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Frog-zap3-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {330, 328}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{330, 328}</string>
+			<key>spriteSourceSize</key>
+			<string>{330, 328}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{902, 0}, {328, 330}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Frog-zap3-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {194, 193}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{194, 193}</string>
+			<key>spriteSourceSize</key>
+			<string>{194, 193}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{951, 877}, {193, 194}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Frog-zap4-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {560, 545}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{560, 545}</string>
+			<key>spriteSourceSize</key>
+			<string>{560, 545}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1143}, {545, 560}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Frog-zap4-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {333, 325}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{333, 325}</string>
+			<key>spriteSourceSize</key>
+			<string>{333, 325}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{882, 542}, {325, 333}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>Frog-zap4-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {196, 191}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{196, 191}</string>
+			<key>spriteSourceSize</key>
+			<string>{196, 191}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1088, 1073}, {191, 196}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-1-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 327}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 327}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 327}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{573, 0}, {327, 337}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-1-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 194}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 194}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{965, 332}, {194, 201}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-1-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 115}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 115}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 115}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1209, 655}, {115, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-2-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 327}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 327}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 327}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1008, 1688}, {327, 337}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-2-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 194}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 194}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{573, 339}, {194, 201}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-2-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 115}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 115}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 115}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1326, 535}, {115, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-3-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 327}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 327}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 327}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{350, 1705}, {327, 337}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-3-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 194}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 194}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{755, 926}, {194, 201}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-3-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 115}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 115}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 115}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1326, 655}, {115, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-4-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 327}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 327}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 327}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{679, 1688}, {327, 337}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-4-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 194}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 194}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1161, 332}, {194, 201}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-4-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 115}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 115}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 115}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1357, 326}, {115, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-5-Large.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {337, 327}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{337, 327}</string>
+			<key>spriteSourceSize</key>
+			<string>{337, 327}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{553, 587}, {327, 337}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-5-Medium.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {201, 194}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{201, 194}</string>
+			<key>spriteSourceSize</key>
+			<string>{201, 194}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{769, 339}, {194, 201}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+		<key>sick-Frog-5-Small.png</key>
+		<dict>
+			<key>aliases</key>
+			<array/>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {118, 115}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{118, 115}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 115}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1209, 535}, {115, 118}}</string>
+			<key>textureRotated</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>textureFileName</key>
+		<string>pvr.ccz</string>
+		<key>version</key>
+		<string>1.5.1</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{2048, 2048}</string>
+		<key>name</key>
+		<string>BTFrog-Hurt-hd</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>default</string>
+			<key>textureFileExtension</key>
+			<string>.pvr.ccz</string>
+			<key>coordinatesFileName</key>
+			<string>default</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

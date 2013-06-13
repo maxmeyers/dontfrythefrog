@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Levels</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Frogspawn</string>
+			<key>Pads Required</key>
+			<integer>0</integer>
+			<key>Reward</key>
+			<string>0</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Tadpole</string>
+			<key>Pads Required</key>
+			<integer>3</integer>
+			<key>Reward</key>
+			<string>100</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Oregon Spotted Frog</string>
+			<key>Pads Required</key>
+			<integer>3</integer>
+			<key>Reward</key>
+			<string>BTFoilHat</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Northern Leopard Frog</string>
+			<key>Pads Required</key>
+			<integer>4</integer>
+			<key>Reward</key>
+			<string>BTSpaceBackgroundLayer</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>California Red-legged Frog</string>
+			<key>Pads Required</key>
+			<integer>4</integer>
+			<key>Reward</key>
+			<string>200</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Canyon Treefrog</string>
+			<key>Pads Required</key>
+			<integer>5</integer>
+			<key>Reward</key>
+			<string>BTBugSpray</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Upland Chorus Frog</string>
+			<key>Pads Required</key>
+			<integer>5</integer>
+			<key>Reward</key>
+			<string>300</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Long-legged Cricket Frog</string>
+			<key>Pads Required</key>
+			<integer>6</integer>
+			<key>Reward</key>
+			<string>300</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Coqui Frog</string>
+			<key>Pads Required</key>
+			<integer>6</integer>
+			<key>Reward</key>
+			<string>BTPennyFrenzy</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Rocky Mountain Tailed Frog</string>
+			<key>Pads Required</key>
+			<integer>7</integer>
+			<key>Reward</key>
+			<string>BTDesertBackgroundLayer</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Baja California Treefrog</string>
+			<key>Pads Required</key>
+			<integer>7</integer>
+			<key>Reward</key>
+			<string>400</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Mexican Dumpy Frog</string>
+			<key>Pads Required</key>
+			<integer>8</integer>
+			<key>Reward</key>
+			<string>BTFoilHat</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Cliff Chirping Frog</string>
+			<key>Pads Required</key>
+			<integer>8</integer>
+			<key>Reward</key>
+			<string>500</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Smokey Jungle Frog</string>
+			<key>Pads Required</key>
+			<integer>9</integer>
+			<key>Reward</key>
+			<string>500</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Budgett&apos;s Frog</string>
+			<key>Pads Required</key>
+			<integer>9</integer>
+			<key>Reward</key>
+			<string>BTBugSpray</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Ornate Horned Frog</string>
+			<key>Pads Required</key>
+			<integer>10</integer>
+			<key>Reward</key>
+			<string>600</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Lowland Burrowing Treefrog</string>
+			<key>Pads Required</key>
+			<integer>10</integer>
+			<key>Reward</key>
+			<string>600</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>African Bullfrog</string>
+			<key>Pads Required</key>
+			<integer>11</integer>
+			<key>Reward</key>
+			<string>BTPennyFrenzy</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Golden Mantella Frog</string>
+			<key>Pads Required</key>
+			<integer>11</integer>
+			<key>Reward</key>
+			<string>700</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Atelopus Frog</string>
+			<key>Pads Required</key>
+			<integer>12</integer>
+			<key>Reward</key>
+			<string>700</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Chile Darwin&apos;s Frog</string>
+			<key>Pads Required</key>
+			<integer>12</integer>
+			<key>Reward</key>
+			<string>BTFoilHat</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Greenhouse Frog</string>
+			<key>Pads Required</key>
+			<integer>13</integer>
+			<key>Reward</key>
+			<string>800</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Amazon Horned Frog</string>
+			<key>Pads Required</key>
+			<integer>13</integer>
+			<key>Reward</key>
+			<string>800</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Goliath Frog</string>
+			<key>Pads Required</key>
+			<integer>14</integer>
+			<key>Reward</key>
+			<string>BTBugSpray</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Chinese Gliding Frog</string>
+			<key>Pads Required</key>
+			<integer>14</integer>
+			<key>Reward</key>
+			<string>900</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Waxy Monkey Frog</string>
+			<key>Pads Required</key>
+			<integer>15</integer>
+			<key>Reward</key>
+			<string>900</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Malagasy Rainbow Frog</string>
+			<key>Pads Required</key>
+			<integer>15</integer>
+			<key>Reward</key>
+			<string>BTPennyFrenzy</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Vietnamese Mossy Frog</string>
+			<key>Pads Required</key>
+			<integer>16</integer>
+			<key>Reward</key>
+			<string>1000</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Crystal Frog</string>
+			<key>Pads Required</key>
+			<integer>16</integer>
+			<key>Reward</key>
+			<string>1000</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>African Clawed Frog</string>
+			<key>Pads Required</key>
+			<integer>17</integer>
+			<key>Reward</key>
+			<string>BTFoilHat</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Poison Dart Frog</string>
+			<key>Pads Required</key>
+			<integer>17</integer>
+			<key>Reward</key>
+			<string>1500</string>
+		</dict>
+	</array>
+</dict>
+</plist>

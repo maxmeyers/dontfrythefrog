@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion
+END
+CDConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion/CDConfig.h
+END
+CocosDenshion.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion/CocosDenshion.h
+END
+SimpleAudioEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion/SimpleAudioEngine.h
+END
+CDOpenALSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion/CDOpenALSupport.h
+END
+CDAudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion/CDAudioManager.h
+END
+CocosDenshion.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion/CocosDenshion.m
+END
+SimpleAudioEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion/SimpleAudioEngine.m
+END
+CDOpenALSupport.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion/CDOpenALSupport.m
+END
+CDAudioManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/CocosDenshion/CDAudioManager.m
+END

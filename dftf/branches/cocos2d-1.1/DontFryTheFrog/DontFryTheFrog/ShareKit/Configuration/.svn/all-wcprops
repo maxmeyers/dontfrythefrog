@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/blacktorch/dontfrythefrog/!svn/ver/74/branches/cocos2d-1.1/DontFryTheFrog/DontFryTheFrog/ShareKit/Configuration
+END
+DefaultSHKConfigurationDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/blacktorch/dontfrythefrog/!svn/ver/74/branches/cocos2d-1.1/DontFryTheFrog/DontFryTheFrog/ShareKit/Configuration/DefaultSHKConfigurationDelegate.h
+END
+LegacySHKConfigurationDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/blacktorch/dontfrythefrog/!svn/ver/74/branches/cocos2d-1.1/DontFryTheFrog/DontFryTheFrog/ShareKit/Configuration/LegacySHKConfigurationDelegate.h
+END
+SHKConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/blacktorch/dontfrythefrog/!svn/ver/74/branches/cocos2d-1.1/DontFryTheFrog/DontFryTheFrog/ShareKit/Configuration/SHKConfiguration.h
+END
+DefaultSHKConfigurationDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/blacktorch/dontfrythefrog/!svn/ver/74/branches/cocos2d-1.1/DontFryTheFrog/DontFryTheFrog/ShareKit/Configuration/DefaultSHKConfigurationDelegate.m
+END
+LegacySHKConfigurationDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/blacktorch/dontfrythefrog/!svn/ver/74/branches/cocos2d-1.1/DontFryTheFrog/DontFryTheFrog/ShareKit/Configuration/LegacySHKConfigurationDelegate.m
+END
+SHKConfiguration.m
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/blacktorch/dontfrythefrog/!svn/ver/74/branches/cocos2d-1.1/DontFryTheFrog/DontFryTheFrog/ShareKit/Configuration/SHKConfiguration.m
+END

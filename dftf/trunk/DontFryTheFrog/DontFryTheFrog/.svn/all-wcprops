@@ -1,0 +1,2243 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog
+END
+BTFrogAnimationsIce.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/60/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogAnimationsIce.m
+END
+BTBugEatLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBugEatLeap.h
+END
+BTSoundMenuLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTSoundMenuLayer.h
+END
+BTFrog-Hurt-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Hurt-hd.plist
+END
+BTCreditsScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/86/trunk/DontFryTheFrog/DontFryTheFrog/BTCreditsScene.h
+END
+BTBugEatLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBugEatLeap.m
+END
+BTSoundMenuLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTSoundMenuLayer.m
+END
+BTCreditsScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTCreditsScene.m
+END
+Leaps.plist
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Leaps.plist
+END
+BTHopshopDetails.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshopDetails.h
+END
+FrogMilestones.bin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/97/trunk/DontFryTheFrog/DontFryTheFrog/FrogMilestones.bin
+END
+BTLoadingScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/69/trunk/DontFryTheFrog/DontFryTheFrog/BTLoadingScene.h
+END
+BTHopshopDetails.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshopDetails.m
+END
+BTHats-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTHats-hd.plist
+END
+BTPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTPlayer.h
+END
+BTPlayerStatsMenuLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTPlayerStatsMenuLayer.h
+END
+NewbieSequence.bin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/97/trunk/DontFryTheFrog/DontFryTheFrog/NewbieSequence.bin
+END
+BTLoadingScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTLoadingScene.m
+END
+Milestones.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/Milestones.plist
+END
+BTPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTPlayer.m
+END
+BTPlayerStatsMenuLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTPlayerStatsMenuLayer.m
+END
+BTGameUILayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTGameUILayer.h
+END
+BTDftfSign.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTDftfSign.plist
+END
+BTGameUILayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTGameUILayer.m
+END
+BTBugTutorials-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBugTutorials-hd.pvr.ccz
+END
+BTLeapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTLeapManager.h
+END
+ZapFrog.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/ZapFrog.m4a
+END
+BTFrogEffectFire.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectFire.h
+END
+BTFrogEffectFoilHat.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectFoilHat.h
+END
+BTLeapManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTLeapManager.m
+END
+BTBonus-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTBonus-hd.plist
+END
+BTStart-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTStart-hd.pvr.ccz
+END
+BTFrogEffectSick.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectSick.h
+END
+BTFrogEffectFire.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/81/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectFire.m
+END
+BTSocialButtons-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTSocialButtons-hd.plist
+END
+BTFrogEffectFoilHat.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectFoilHat.m
+END
+BTMenuSelectionScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTMenuSelectionScene.h
+END
+BTBackgroundThumbs-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBackgroundThumbs-hd.pvr.ccz
+END
+BTFrogEffectSick.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectSick.m
+END
+BTFrog-Explode.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Explode.pvr.ccz
+END
+BTFrog-Fire-Transitions.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Fire-Transitions.pvr.ccz
+END
+BTFrog-Ice-21-24-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-21-24-hd.plist
+END
+BTFrogEffectIce.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/58/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectIce.h
+END
+BTMenuSelectionScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTMenuSelectionScene.m
+END
+BTSocialButtons.plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTSocialButtons.plist
+END
+BTPostGameScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/85/trunk/DontFryTheFrog/DontFryTheFrog/BTPostGameScene.h
+END
+BTFrogEffectIce.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectIce.m
+END
+BTDftfSign-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTDftfSign-hd.plist
+END
+BTPostGameScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTPostGameScene.m
+END
+BTConfigLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/60/trunk/DontFryTheFrog/DontFryTheFrog/BTConfigLayer.h
+END
+BTGameCompleteLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTGameCompleteLeap.h
+END
+BTConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTConfig.h
+END
+BTBackgroundThumbs.plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBackgroundThumbs.plist
+END
+Energybarback.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/Energybarback.png
+END
+BTConfigLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTConfigLayer.m
+END
+BTGameCompleteLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTGameCompleteLeap.m
+END
+BTConfig.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTConfig.m
+END
+BTGreenFly.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/59/trunk/DontFryTheFrog/DontFryTheFrog/BTGreenFly.h
+END
+BTFrogEffectPuddled.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectPuddled.h
+END
+BTHopshopLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshopLayer.h
+END
+title-swing-4.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/title-swing-4.png
+END
+BTGreenFly.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTGreenFly.m
+END
+BTFrogEffectPuddled.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectPuddled.m
+END
+MenuTheme(NoVocals).m4a
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/MenuTheme(NoVocals).m4a
+END
+BTHopshopLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshopLayer.m
+END
+BTSocialButtons.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTSocialButtons.pvr.ccz
+END
+BTFrog-Explode-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Explode-hd.plist
+END
+BTFrog-Fire-Transitions-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Fire-Transitions-hd.plist
+END
+BTLeapBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTLeapBox.h
+END
+BTWaterStreak.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTWaterStreak.h
+END
+BTBugs-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBugs-hd.plist
+END
+BTResultsLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTResultsLayer.h
+END
+BTLeapBox.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTLeapBox.m
+END
+BTFrog-Ice-13-20.plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-13-20.plist
+END
+BTWaterStreak.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTWaterStreak.m
+END
+white34.fnt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/white34.fnt
+END
+BTLevelingLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTLevelingLayer.h
+END
+BTFrog-Ice-21-24.plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-21-24.plist
+END
+BTResultsLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTResultsLayer.m
+END
+BTLevelingLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/BTLevelingLayer.m
+END
+BTHighScoreLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/BTHighScoreLayer.h
+END
+BTAsteroid.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTAsteroid.h
+END
+BTHighScoreLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTHighScoreLayer.m
+END
+BTAsteroid.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTAsteroid.m
+END
+BTFrogFryLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogFryLeap.h
+END
+FrogExplode.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/FrogExplode.m4a
+END
+BTFrogFryLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogFryLeap.m
+END
+BTBugs-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBugs-hd.pvr.ccz
+END
+BTStart.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTStart.pvr.ccz
+END
+BTTumbleWeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/99/trunk/DontFryTheFrog/DontFryTheFrog/BTTumbleWeed.h
+END
+FrogGrow.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/FrogGrow.m4a
+END
+BTUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTUtils.h
+END
+BTTumbleWeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/99/trunk/DontFryTheFrog/DontFryTheFrog/BTTumbleWeed.m
+END
+BTGameCenterManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTGameCenterManager.h
+END
+BTUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTUtils.m
+END
+BTStartMenu-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/84/trunk/DontFryTheFrog/DontFryTheFrog/BTStartMenu-hd.pvr.ccz
+END
+BTGameCenterManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTGameCenterManager.m
+END
+BuyCoin.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BuyCoin.m4a
+END
+BTBackgroundLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBackgroundLayer.h
+END
+BTOptionsMenuLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/86/trunk/DontFryTheFrog/DontFryTheFrog/BTOptionsMenuLayer.h
+END
+BTHopshop-Flies.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshop-Flies.pvr.ccz
+END
+BTSocialButtons-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTSocialButtons-hd.pvr.ccz
+END
+BTFrog-Hurt.plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Hurt.plist
+END
+BTBackgroundLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTBackgroundLayer.m
+END
+BTOptionsMenuLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTOptionsMenuLayer.m
+END
+BTStartMenu.plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/84/trunk/DontFryTheFrog/DontFryTheFrog/BTStartMenu.plist
+END
+ZapDrone.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/ZapDrone.m4a
+END
+BTMultiplierLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTMultiplierLeap.h
+END
+FireFlySmall.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/FireFlySmall.m4a
+END
+BTMultiplierLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTMultiplierLeap.m
+END
+BTLilypad.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTLilypad.h
+END
+BTBackgroundThumbs.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBackgroundThumbs.pvr.ccz
+END
+BTFlyPennySelectLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTFlyPennySelectLayer.h
+END
+BTLilypad.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTLilypad.m
+END
+HopshopDetails.plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/HopshopDetails.plist
+END
+FrogUnfreeze.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/FrogUnfreeze.m4a
+END
+InGameMedium.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/InGameMedium.m4a
+END
+BTGameLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTGameLayer.h
+END
+BTFlyPennySelectLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTFlyPennySelectLayer.m
+END
+InGameSlow.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/InGameSlow.m4a
+END
+green.fnt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/green.fnt
+END
+BTGameLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTGameLayer.m
+END
+FrogSick.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/FrogSick.m4a
+END
+BTMovableBackgroundObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTMovableBackgroundObject.h
+END
+BTBug.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBug.h
+END
+Energybar-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/Energybar-hd.png
+END
+BTUIElements.plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTUIElements.plist
+END
+BTHopshop.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshop.pvr.ccz
+END
+BTMovableBackgroundObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTMovableBackgroundObject.m
+END
+BTBug.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTBug.m
+END
+BTMenuLilypad.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTMenuLilypad.h
+END
+BTBonus.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTBonus.pvr.ccz
+END
+BTHopshop-Flies.plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshop-Flies.plist
+END
+BTFrogAnimationsFire.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/58/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogAnimationsFire.h
+END
+BTMenuLilypad.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTMenuLilypad.m
+END
+BTFrogAnimationsSick.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/58/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogAnimationsSick.h
+END
+BTFrogAnimationsFire.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogAnimationsFire.m
+END
+FrogFireOut.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/FrogFireOut.m4a
+END
+BTFrogAnimationsSick.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/60/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogAnimationsSick.m
+END
+BTBeam.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTBeam.pvr.ccz
+END
+AirshipConfig.plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/97/trunk/DontFryTheFrog/DontFryTheFrog/AirshipConfig.plist
+END
+FrogOnFire.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/FrogOnFire.m4a
+END
+ZapBad.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/ZapBad.m4a
+END
+MenuSelect.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/MenuSelect.m4a
+END
+BTToolSelectLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTToolSelectLayer.h
+END
+BTBackground.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/99/trunk/DontFryTheFrog/DontFryTheFrog/BTBackground.pvr.ccz
+END
+BTFrog-Fire.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Fire.pvr.ccz
+END
+CCMenuItemFontWithStroke.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/CCMenuItemFontWithStroke.h
+END
+BTToolSelectLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTToolSelectLayer.m
+END
+BTConfigScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/BTConfigScene.h
+END
+CCMenuItemFontWithStroke.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/CCMenuItemFontWithStroke.m
+END
+BTHopshop.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshop.plist
+END
+BTFrogEffectZap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/58/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectZap.h
+END
+BTConfigScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/BTConfigScene.m
+END
+BTStart-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTStart-hd.plist
+END
+BTFrogEffectZap.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectZap.m
+END
+BTHopshopScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshopScene.h
+END
+white34.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/white34.png
+END
+Leaps.bin
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blacktorch/dontfrythefrog/!svn/ver/97/trunk/DontFryTheFrog/DontFryTheFrog/Leaps.bin
+END
+BTHopshopScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshopScene.m
+END
+BTRandomDirectionObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTRandomDirectionObject.h
+END
+BTVersionChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTVersionChecker.h
+END
+BTPauseLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTPauseLayer.h
+END
+BTRandomDirectionObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTRandomDirectionObject.m
+END
+BTMenus-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTMenus-hd.pvr.ccz
+END
+BTVersionChecker.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTVersionChecker.m
+END
+BTPauseLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTPauseLayer.m
+END
+BTStartMenu.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/84/trunk/DontFryTheFrog/DontFryTheFrog/BTStartMenu.pvr.ccz
+END
+BTBuyItemLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBuyItemLeap.h
+END
+HopshopDetails.bin
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/97/trunk/DontFryTheFrog/DontFryTheFrog/HopshopDetails.bin
+END
+BTMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTMacros.h
+END
+BTFrog-Fire.plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Fire.plist
+END
+BTBuyItemLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBuyItemLeap.m
+END
+SpecialSequences.bin
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/97/trunk/DontFryTheFrog/DontFryTheFrog/SpecialSequences.bin
+END
+BTBugTutorials.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBugTutorials.plist
+END
+BTFrog-Ice-13-20.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-13-20.pvr.ccz
+END
+BTBeamSelectLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTBeamSelectLayer.h
+END
+BTDftfSign.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTDftfSign.pvr.ccz
+END
+BTObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTObject.h
+END
+BTBeamSelectLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTBeamSelectLayer.m
+END
+BTUIElements-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTUIElements-hd.plist
+END
+title-swing-4-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/title-swing-4-hd.png
+END
+BTUIElements.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTUIElements.pvr.ccz
+END
+BTObject.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTObject.m
+END
+BTFrogMilestone.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogMilestone.h
+END
+BTSpawnSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTSpawnSequence.h
+END
+BTBugTutorials-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBugTutorials-hd.plist
+END
+BTAnalyticsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTAnalyticsManager.h
+END
+BTFrogMilestone.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogMilestone.m
+END
+BTPlanet.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTPlanet.h
+END
+BTMenus-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTMenus-hd.plist
+END
+BTSpawnSequence.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTSpawnSequence.m
+END
+BTAnalyticsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTAnalyticsManager.m
+END
+BTFingersDownLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFingersDownLeap.h
+END
+BTPlanet.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTPlanet.m
+END
+BTFrog-Ice-13-20-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-13-20-hd.plist
+END
+BTAtLeastGameLengthLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTAtLeastGameLengthLeap.h
+END
+BTBeam-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTBeam-hd.pvr.ccz
+END
+BTBugSpray.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTBugSpray.h
+END
+BTFingersDownLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFingersDownLeap.m
+END
+BTAtLeastGameLengthLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/81/trunk/DontFryTheFrog/DontFryTheFrog/BTAtLeastGameLengthLeap.m
+END
+BTBugSpray.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/84/trunk/DontFryTheFrog/DontFryTheFrog/BTBugSpray.m
+END
+green.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/green.png
+END
+AnimationSequences.plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/AnimationSequences.plist
+END
+BTStuckBugFryLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTStuckBugFryLeap.h
+END
+BTHopshopManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshopManager.h
+END
+MultiplierIncreaseX1.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/MultiplierIncreaseX1.m4a
+END
+BTStuckBugFryLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTStuckBugFryLeap.m
+END
+BTHopshopManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshopManager.m
+END
+BTFrog-Explode-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Explode-hd.pvr.ccz
+END
+BTFrog-Fire-Transitions-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Fire-Transitions-hd.pvr.ccz
+END
+soupofjustice.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/59/trunk/DontFryTheFrog/DontFryTheFrog/soupofjustice.ttf
+END
+BTBackground.plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/99/trunk/DontFryTheFrog/DontFryTheFrog/BTBackground.plist
+END
+BTHighScoreBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTHighScoreBox.h
+END
+Levels.bin
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/97/trunk/DontFryTheFrog/DontFryTheFrog/Levels.bin
+END
+BTSickBug.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/59/trunk/DontFryTheFrog/DontFryTheFrog/BTSickBug.h
+END
+BTGameScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTGameScene.h
+END
+BTHighScoreBox.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTHighScoreBox.m
+END
+BTSickBug.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTSickBug.m
+END
+BTGameScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTGameScene.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/RootViewController.h
+END
+BTIceBug.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/59/trunk/DontFryTheFrog/DontFryTheFrog/BTIceBug.h
+END
+BTHatSelectionScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHatSelectionScene.h
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/RootViewController.m
+END
+BTIceBug.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTIceBug.m
+END
+BTHatSelectionScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHatSelectionScene.m
+END
+BTBackground-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/99/trunk/DontFryTheFrog/DontFryTheFrog/BTBackground-hd.pvr.ccz
+END
+ZapGood.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/ZapGood.m4a
+END
+BTOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTOrder.h
+END
+BTHopshop-Flies-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshop-Flies-hd.plist
+END
+BTOrder.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTOrder.m
+END
+Energybar.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/Energybar.png
+END
+BTFoilHat.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/61/trunk/DontFryTheFrog/DontFryTheFrog/BTFoilHat.h
+END
+BTFrog-Walk-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Walk-hd.plist
+END
+BTBonus.plist
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTBonus.plist
+END
+BTDftfSign-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTDftfSign-hd.pvr.ccz
+END
+BTFoilHat.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/84/trunk/DontFryTheFrog/DontFryTheFrog/BTFoilHat.m
+END
+BTFrogEffectExplode.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/59/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectExplode.h
+END
+BTFrog-Walk.plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Walk.plist
+END
+BTFrog.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog.h
+END
+BTStorageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTStorageManager.h
+END
+BTFrogEffectExplode.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffectExplode.m
+END
+BTStart.plist
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTStart.plist
+END
+BTAlertView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/56/trunk/DontFryTheFrog/DontFryTheFrog/BTAlertView.h
+END
+BTFrog.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog.m
+END
+BTFrog-Hurt-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Hurt-hd.pvr.ccz
+END
+BTStorageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTStorageManager.m
+END
+BTMainMenuLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTMainMenuLayer.h
+END
+BTFrog-Ice-1-12-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-1-12-hd.plist
+END
+BTIncludes.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTIncludes.h
+END
+BTComet.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTComet.h
+END
+BTAlertView.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/56/trunk/DontFryTheFrog/DontFryTheFrog/BTAlertView.m
+END
+BTHopshop-Flies-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshop-Flies-hd.pvr.ccz
+END
+GameConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/61/trunk/DontFryTheFrog/DontFryTheFrog/GameConfig.h
+END
+BTMainMenuLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTMainMenuLayer.m
+END
+BTComet.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTComet.m
+END
+BTBackground-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/99/trunk/DontFryTheFrog/DontFryTheFrog/BTBackground-hd.plist
+END
+BTHopshop-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshop-hd.plist
+END
+BTGameLengthLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTGameLengthLeap.h
+END
+BTFrog-Ice-1-12.plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-1-12.plist
+END
+BTMetasequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTMetasequence.h
+END
+BTFrogAnimations.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/60/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogAnimations.h
+END
+BTDefaultBackgroundLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTDefaultBackgroundLayer.h
+END
+BTGameLengthLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTGameLengthLeap.m
+END
+BTMetasequence.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTMetasequence.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/AppDelegate.h
+END
+BTFrogAnimations.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogAnimations.m
+END
+BTMenus.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTMenus.pvr.ccz
+END
+FireFlyBig.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/FireFlyBig.m4a
+END
+BTDefaultBackgroundLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTDefaultBackgroundLayer.m
+END
+BTPennyFrenzy.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/61/trunk/DontFryTheFrog/DontFryTheFrog/BTPennyFrenzy.h
+END
+BTFrog-Walk.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Walk.pvr.ccz
+END
+MySHKConfigurator.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/87/trunk/DontFryTheFrog/DontFryTheFrog/MySHKConfigurator.h
+END
+BuyInStore2.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BuyInStore2.m4a
+END
+SparkleFlySpawn.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/SparkleFlySpawn.m4a
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/AppDelegate.m
+END
+BTPennyFrenzy.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/84/trunk/DontFryTheFrog/DontFryTheFrog/BTPennyFrenzy.m
+END
+BTHats.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTHats.pvr.ccz
+END
+MySHKConfigurator.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/MySHKConfigurator.m
+END
+MultiplierDecreaseX1.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/MultiplierDecreaseX1.m4a
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/blacktorch/dontfrythefrog/!svn/ver/56/trunk/DontFryTheFrog/DontFryTheFrog/main.m
+END
+BTFrogLevels-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogLevels-hd.plist
+END
+BTFrog-Ice-1-12.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-1-12.pvr.ccz
+END
+BTHopshop-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTHopshop-hd.pvr.ccz
+END
+GameOver.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/GameOver.m4a
+END
+FrogSwallow.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/FrogSwallow.m4a
+END
+BTPuddle.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTPuddle.h
+END
+BTFrog-Fire-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Fire-hd.plist
+END
+BTSpecialBug.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTSpecialBug.h
+END
+BTNewsLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTNewsLog.h
+END
+BTLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTLeap.h
+END
+BTPuddle.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTPuddle.m
+END
+BTBugUpgradeSelectLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTBugUpgradeSelectLayer.h
+END
+BTSocialAchievement.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTSocialAchievement.h
+END
+BTSpecialBug.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTSpecialBug.m
+END
+BTNewsLog.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTNewsLog.m
+END
+BTLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTLeap.m
+END
+BTBugUpgradeSelectLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTBugUpgradeSelectLayer.m
+END
+BTSocialAchievement.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTSocialAchievement.m
+END
+BTBugs.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBugs.pvr.ccz
+END
+BTFrog-Explode.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Explode.plist
+END
+BTFrog-Fire-Transitions.plist
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Fire-Transitions.plist
+END
+BTFrogLevels-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogLevels-hd.pvr.ccz
+END
+BTBackgroundThumbs-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBackgroundThumbs-hd.plist
+END
+BTUIElements-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTUIElements-hd.pvr.ccz
+END
+BTFrog-Fire-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Fire-hd.pvr.ccz
+END
+BTFrog-Hurt.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Hurt.pvr.ccz
+END
+BTFrog-Walk-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Walk-hd.pvr.ccz
+END
+BTFireBug.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/59/trunk/DontFryTheFrog/DontFryTheFrog/BTFireBug.h
+END
+BTFireBug.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTFireBug.m
+END
+BTFrog-Ice-21-24.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-21-24.pvr.ccz
+END
+BTTimeBasedLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTTimeBasedLeap.h
+END
+NormalSequences.bin
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/97/trunk/DontFryTheFrog/DontFryTheFrog/NormalSequences.bin
+END
+BTBugFryLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBugFryLeap.h
+END
+BTFrog-Ice-1-12-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-1-12-hd.pvr.ccz
+END
+BTPopup.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTPopup.h
+END
+BTTimeBasedLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTTimeBasedLeap.m
+END
+BTBugs.plist
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBugs.plist
+END
+BTBugFryLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBugFryLeap.m
+END
+BTFrogLevels.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogLevels.pvr.ccz
+END
+BuyInStore.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BuyInStore.m4a
+END
+BTPopup.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTPopup.m
+END
+BTBugManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBugManager.h
+END
+BTChipmunkManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTChipmunkManager.h
+END
+BTBugManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTBugManager.m
+END
+BTBonus-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/82/trunk/DontFryTheFrog/DontFryTheFrog/BTBonus-hd.pvr.ccz
+END
+BTChipmunkManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTChipmunkManager.m
+END
+BTLifeCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTLifeCounter.h
+END
+BTFrogExplodeLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogExplodeLeap.h
+END
+BTBugTutorials.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTBugTutorials.pvr.ccz
+END
+BTLifeCounter.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/BTLifeCounter.m
+END
+BTFrogExplodeLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogExplodeLeap.m
+END
+BTFrog-Ice-21-24-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-21-24-hd.pvr.ccz
+END
+BTBlockLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBlockLayer.h
+END
+BTSpaceBackgroundLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/98/trunk/DontFryTheFrog/DontFryTheFrog/BTSpaceBackgroundLayer.h
+END
+BTFly.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/blacktorch/dontfrythefrog/!svn/ver/55/trunk/DontFryTheFrog/DontFryTheFrog/BTFly.h
+END
+BTMenus.plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTMenus.plist
+END
+BTBlockLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBlockLayer.m
+END
+BTSpendPenniesLeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTSpendPenniesLeap.h
+END
+BTSpaceBackgroundLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTSpaceBackgroundLayer.m
+END
+BTFly.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTFly.m
+END
+SpawnSequence.plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/94/trunk/DontFryTheFrog/DontFryTheFrog/SpawnSequence.plist
+END
+BTSpendPenniesLeap.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/63/trunk/DontFryTheFrog/DontFryTheFrog/BTSpendPenniesLeap.m
+END
+FrogFreeze.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/FrogFreeze.m4a
+END
+BTHats.plist
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTHats.plist
+END
+BTBeam.plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTBeam.plist
+END
+Levels.plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/blacktorch/dontfrythefrog/!svn/ver/99/trunk/DontFryTheFrog/DontFryTheFrog/Levels.plist
+END
+BTFrogEffect.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/58/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffect.h
+END
+BTBackgroundSelectLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBackgroundSelectLayer.h
+END
+BTFrogLevels.plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/93/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogLevels.plist
+END
+BTTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/blacktorch/dontfrythefrog/!svn/ver/84/trunk/DontFryTheFrog/DontFryTheFrog/BTTool.h
+END
+BTStartMenu-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/84/trunk/DontFryTheFrog/DontFryTheFrog/BTStartMenu-hd.plist
+END
+BTFrogEffect.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/81/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogEffect.m
+END
+BTStatsMenuLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTStatsMenuLayer.h
+END
+BTMessageLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/85/trunk/DontFryTheFrog/DontFryTheFrog/BTMessageLayer.h
+END
+BTBackgroundSelectLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTBackgroundSelectLayer.m
+END
+BTFrog-Ice-13-20-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/BTFrog-Ice-13-20-hd.pvr.ccz
+END
+BTTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/blacktorch/dontfrythefrog/!svn/ver/84/trunk/DontFryTheFrog/DontFryTheFrog/BTTool.m
+END
+InGameFast.m4a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/InGameFast.m4a
+END
+BTDesertBackgroundLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/blacktorch/dontfrythefrog/!svn/ver/99/trunk/DontFryTheFrog/DontFryTheFrog/BTDesertBackgroundLayer.h
+END
+BTStatsMenuLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/blacktorch/dontfrythefrog/!svn/ver/101/trunk/DontFryTheFrog/DontFryTheFrog/BTStatsMenuLayer.m
+END
+BTMessageLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTMessageLayer.m
+END
+BTHats-hd.pvr.ccz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTHats-hd.pvr.ccz
+END
+BTMainMenuScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTMainMenuScene.h
+END
+BTDesertBackgroundLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTDesertBackgroundLayer.m
+END
+BTStatsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/85/trunk/DontFryTheFrog/DontFryTheFrog/BTStatsManager.h
+END
+Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/Prefix.pch
+END
+BTMainMenuScene.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/blacktorch/dontfrythefrog/!svn/ver/100/trunk/DontFryTheFrog/DontFryTheFrog/BTMainMenuScene.m
+END
+Metasequences.bin
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/blacktorch/dontfrythefrog/!svn/ver/97/trunk/DontFryTheFrog/DontFryTheFrog/Metasequences.bin
+END
+BTStatsManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/blacktorch/dontfrythefrog/!svn/ver/85/trunk/DontFryTheFrog/DontFryTheFrog/BTStatsManager.m
+END
+Energybarback-hd.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/blacktorch/dontfrythefrog/!svn/ver/62/trunk/DontFryTheFrog/DontFryTheFrog/Energybarback-hd.png
+END
+BTBeam-hd.plist
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/blacktorch/dontfrythefrog/!svn/ver/83/trunk/DontFryTheFrog/DontFryTheFrog/BTBeam-hd.plist
+END
+BTFrogAnimationsIce.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/blacktorch/dontfrythefrog/!svn/ver/58/trunk/DontFryTheFrog/DontFryTheFrog/BTFrogAnimationsIce.h
+END

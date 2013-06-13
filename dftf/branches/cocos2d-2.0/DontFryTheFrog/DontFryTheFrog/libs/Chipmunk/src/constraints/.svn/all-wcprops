@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints
+END
+cpDampedSpring.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpDampedSpring.c
+END
+cpDampedRotarySpring.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpDampedRotarySpring.c
+END
+cpRatchetJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpRatchetJoint.c
+END
+cpGearJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpGearJoint.c
+END
+cpRotaryLimitJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpRotaryLimitJoint.c
+END
+cpConstraint.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpConstraint.c
+END
+cpSlideJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpSlideJoint.c
+END
+cpGrooveJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpGrooveJoint.c
+END
+cpPivotJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpPivotJoint.c
+END
+cpPinJoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpPinJoint.c
+END
+cpSimpleMotor.c
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/blacktorch/dontfrythefrog/!svn/ver/79/branches/cocos2d-2.0/DontFryTheFrog/DontFryTheFrog/libs/Chipmunk/src/constraints/cpSimpleMotor.c
+END

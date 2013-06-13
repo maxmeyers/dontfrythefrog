@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/InboxLib
+END
+UAInboxMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/InboxLib/UAInboxMessage.h
+END
+UAInboxURLCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/InboxLib/UAInboxURLCache.h
+END
+UAInboxMessageListObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/InboxLib/UAInboxMessageListObserver.h
+END
+UAInboxDefaultJSDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/InboxLib/UAInboxDefaultJSDelegate.h
+END
+UAInboxPushHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/InboxLib/UAInboxPushHandler.h
+END
+UAInbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/InboxLib/UAInbox.h
+END
+UAInboxDBManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/InboxLib/UAInboxDBManager.h
+END
+UAInboxMessageList.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/InboxLib/UAInboxMessageList.h
+END

@@ -1,0 +1,83 @@
+10
+
+dir
+102
+https://svn.codespaces.com/blacktorch/dontfrythefrog/trunk/DontFryTheFrog/DontFryTheFrog/ShareKit
+https://svn.codespaces.com/blacktorch/dontfrythefrog
+
+
+
+2012-01-25T01:58:07.085048Z
+87
+maxmeyers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4ae6afef-e3c2-42dd-8c64-3b3db3f73246
+
+Customize UI
+dir
+
+Reachability
+dir
+
+SHKConfig.h
+file
+
+
+
+
+2012-09-18T21:01:48.000000Z
+0e91bd5feabdda7f5e122d57de3ffd13
+2012-01-25T01:58:07.085048Z
+87
+maxmeyers
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7750
+
+ShareKit.bundle
+dir
+
+Configuration
+dir
+
+Sharers
+dir
+
+Core
+dir
+
+UI
+dir
+

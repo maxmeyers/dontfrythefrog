@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib
+END
+UASubscription.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UASubscription.h
+END
+UASubscriptionProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UASubscriptionProduct.h
+END
+UASubscriptionDownloadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UASubscriptionDownloadManager.h
+END
+UAContentInventory.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UAContentInventory.h
+END
+UASubscriptionObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UASubscriptionObserver.h
+END
+UAProductInventory.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UAProductInventory.h
+END
+UASubscriptionAlertProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UASubscriptionAlertProtocol.h
+END
+UASubscriptionContent.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UASubscriptionContent.h
+END
+UASubscriptionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UASubscriptionManager.h
+END
+UASubscriptionInventory.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/SubscriptionLib/UASubscriptionInventory.h
+END

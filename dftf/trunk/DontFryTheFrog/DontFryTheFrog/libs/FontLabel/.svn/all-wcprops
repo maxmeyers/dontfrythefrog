@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel
+END
+FontLabelStringDrawing.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/FontLabelStringDrawing.h
+END
+FontLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/FontLabel.m
+END
+ZAttributedString.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/ZAttributedString.m
+END
+FontLabelStringDrawing.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/FontLabelStringDrawing.m
+END
+ZFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/ZFont.h
+END
+FontManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/FontManager.h
+END
+ZAttributedStringPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/ZAttributedStringPrivate.h
+END
+ZFont.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/ZFont.m
+END
+FontLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/FontLabel.h
+END
+FontManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/FontManager.m
+END
+ZAttributedString.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/blacktorch/dontfrythefrog/!svn/ver/51/trunk/DontFryTheFrog/DontFryTheFrog/libs/FontLabel/ZAttributedString.h
+END

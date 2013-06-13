@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/StoreFrontLib
+END
+UAStoreFront.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/StoreFrontLib/UAStoreFront.h
+END
+UAStoreFrontDownloadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/StoreFrontLib/UAStoreFrontDownloadManager.h
+END
+UAStoreKitObserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/StoreFrontLib/UAStoreKitObserver.h
+END
+UAInventory.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/StoreFrontLib/UAInventory.h
+END
+UAStoreFrontAlertProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/StoreFrontLib/UAStoreFrontAlertProtocol.h
+END
+UAProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/StoreFrontLib/UAProduct.h
+END
+UAStoreFrontDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/blacktorch/dontfrythefrog/!svn/ver/96/trunk/DontFryTheFrog/DontFryTheFrog/Airship/Library/StoreFrontLib/UAStoreFrontDelegate.h
+END
